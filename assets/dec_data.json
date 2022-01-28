@@ -1,0 +1,19 @@
+{
+    "Entrys": {
+        "GitHub": {
+            "Email": "githubemail@gmail.com",
+            "Username": "kiisuhh",
+            "Password": "mypassword"
+        },
+        "Google": {
+            "Email": "googlemail@gmail.com",
+            "Username": "Luca",
+            "Password": "mypassword"
+        },
+        "Netflix": {
+            "Email": "netflixuser@web.de",
+            "Username": "mynetflixuser",
+            "Password": "netflix123456\u00a7$(\u00a7"
+        }
+    }
+}
