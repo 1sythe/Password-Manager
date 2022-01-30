@@ -1,7 +1,9 @@
+<p align="center">
 ![Commit-Activity](https://img.shields.io/github/commit-activity/w/kiisuhh/Password-Manager)
 ![Forks](https://img.shields.io/github/forks/kiisuhh/Password-Manager)
 ![Stargazers](https://img.shields.io/github/stars/kiisuhh/Password-Manager)
-
+</p>
+  
 
 
 <!-- PROJECT LOGO -->
