@@ -3,9 +3,9 @@ GUI Password Manager with encrypted json written in python
 
 <div id="top"></div>
 
-[![Commit-Activity](https://img.shields.io/github/commit-activity/w/kiisuhh/Password-Manager)
-[![Forks](https://img.shields.io/github/forks/kiisuhh/Password-Manager)
-[![Stargazers](https://img.shields.io/github/stars/kiisuhh/Password-Manager)
+![Commit-Activity](https://img.shields.io/github/commit-activity/w/kiisuhh/Password-Manager)
+![Forks](https://img.shields.io/github/forks/kiisuhh/Password-Manager)
+![Stargazers](https://img.shields.io/github/stars/kiisuhh/Password-Manager)
 
 
 
@@ -13,13 +13,12 @@ GUI Password Manager with encrypted json written in python
 <br />
 <div align="center">
   <a href="https://github.com/kiisuhh/Password-Manager">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-<h3 align="center">project_title</h3>
+<h3 align="center">Password Manager</h3>
 
   <p align="center">
-    project_description
+    GUI Password Manager with encrypted json written in python
     <br />
     <br />
     ·
