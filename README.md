@@ -117,10 +117,6 @@ Project Link: [https://github.com/kiisuhh/Password-Manager](https://github.com/k
 
 
 
-<!-- ACKNOWLEDGMENTS -->
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
