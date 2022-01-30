@@ -29,7 +29,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-![Product Name Screen Shot][assets\screenshot.jpg]](https://github.com/kiisuhh)
+![Password Manager Screenshot][assets/screenshot.jpg]](https://github.com/kiisuhh)
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
