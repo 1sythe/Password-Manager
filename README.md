@@ -29,7 +29,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-![assets/screenshot.jpg]](https://github.com/kiisuhh)
+![Screenshot](assets/screenshot.jpg)
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
