@@ -1,8 +1,6 @@
-<p align="center">
 ![Commit-Activity](https://img.shields.io/github/commit-activity/w/kiisuhh/Password-Manager)
 ![Forks](https://img.shields.io/github/forks/kiisuhh/Password-Manager)
 ![Stargazers](https://img.shields.io/github/stars/kiisuhh/Password-Manager)
-</p>
   
 
 
@@ -31,7 +29,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-![Password Manager Screenshot][assets/screenshot.jpg]](https://github.com/kiisuhh)
+![assets/screenshot.jpg]](https://github.com/kiisuhh)
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
