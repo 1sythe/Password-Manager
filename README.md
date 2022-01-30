@@ -68,10 +68,10 @@
 <!-- ROADMAP -->
 ## Roadmap
 
-- [ ] Password Secured
-- [ ] Encrypted
+- [X] Password Secured
+- [X] Encrypted
 - [ ] Multiple Languages
-    - [ ] English
+    - [X] English
     - [ ] Deutsch
 
 
