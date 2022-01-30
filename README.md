@@ -1,8 +1,3 @@
-# Password-Manager
-GUI Password Manager with encrypted json written in python
-
-<div id="top"></div>
-
 ![Commit-Activity](https://img.shields.io/github/commit-activity/w/kiisuhh/Password-Manager)
 ![Forks](https://img.shields.io/github/forks/kiisuhh/Password-Manager)
 ![Stargazers](https://img.shields.io/github/stars/kiisuhh/Password-Manager)
